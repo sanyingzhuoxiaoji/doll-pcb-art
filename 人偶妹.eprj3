@@ -24,11 +24,6 @@
         "title": "Board1",
         "zIndex": 1
       },
-      "361b54e37a56186e": {
-        "uuid": "361b54e37a56186e",
-        "title": "Board2",
-        "zIndex": 2
-      },
       "3646860357f0b17f": {
         "uuid": "3646860357f0b17f",
         "title": "Board3",
@@ -54,14 +49,6 @@
         "version": "1795622361958",
         "updateTime": 1795622361958
       },
-      "ad74756c17f4e588": {
-        "uuid": "ad74756c17f4e588",
-        "name": "Schematic2",
-        "board": "361b54e37a56186e",
-        "source": "",
-        "version": "1795656156668",
-        "updateTime": 1795656156668
-      },
       "f494446a476610d7": {
         "uuid": "f494446a476610d7",
         "name": "Schematic3",
@@ -77,6 +64,22 @@
         "source": "",
         "version": "1795684170030",
         "updateTime": 1795684170030
+      },
+      "84338c7198c1f95d": {
+        "uuid": "84338c7198c1f95d",
+        "name": "Schematic3_2",
+        "board": "",
+        "source": "",
+        "version": "1795705587259",
+        "updateTime": 1795705587259
+      },
+      "94b87ef5c796f503": {
+        "uuid": "94b87ef5c796f503",
+        "name": "PCB灯光画-无极调光小夜灯 copy",
+        "board": "fe42c8fe05e934bc",
+        "source": "",
+        "version": "1795705595000",
+        "updateTime": 1795705595000
       }
     },
     "sheets": {
@@ -88,15 +91,6 @@
         "source": "",
         "version": "1795621012079",
         "updateTime": 1795621012079
-      },
-      "5532381cfe6b0d19": {
-        "uuid": "5532381cfe6b0d19",
-        "title": "P1",
-        "schematic_uuid": "ad74756c17f4e588",
-        "zIndex": 1,
-        "source": "",
-        "version": "1795656156668",
-        "updateTime": 1795656156668
       },
       "87b4a1b730163a84": {
         "uuid": "87b4a1b730163a84",
@@ -115,6 +109,33 @@
         "source": "",
         "version": "1795668617023",
         "updateTime": 1795678632749
+      },
+      "032a4bc9320395f3": {
+        "uuid": "032a4bc9320395f3",
+        "title": "P1",
+        "schematic_uuid": "84338c7198c1f95d",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795668617023",
+        "updateTime": 1795698554107
+      },
+      "4c672f34e09ac3de": {
+        "uuid": "4c672f34e09ac3de",
+        "title": "Sheet_1_无极调光小夜灯 copy",
+        "schematic_uuid": "94b87ef5c796f503",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795618108361",
+        "updateTime": 1795705579962
+      },
+      "e92009ff49336973": {
+        "uuid": "e92009ff49336973",
+        "title": "Sheet_2_其他LED串并联方案 copy",
+        "schematic_uuid": "94b87ef5c796f503",
+        "zIndex": 2,
+        "source": "",
+        "version": "1795618108361",
+        "updateTime": 1795705579962
       }
     },
     "pcbs": {
@@ -126,15 +147,6 @@
         "source": "",
         "version": "1795667604340",
         "updateTime": 1795667604340
-      },
-      "04f28a6e66588044": {
-        "uuid": "04f28a6e66588044",
-        "title": "PCB2",
-        "board": "361b54e37a56186e",
-        "parent_uuid": "",
-        "source": "",
-        "version": "1795656746165",
-        "updateTime": 1795656746165
       },
       "be902c57623c1b1b": {
         "uuid": "be902c57623c1b1b",
@@ -163,23 +175,23 @@
         "version": "1795686184667",
         "updateTime": 1795686184667
       },
-      "7740028e73dc013d": {
-        "uuid": "7740028e73dc013d",
-        "title": "电路_2",
-        "board": "",
-        "parent_uuid": "",
-        "source": "",
-        "version": "1795704814198",
-        "updateTime": 1795704814198
-      },
       "d93167c8a2089e11": {
         "uuid": "d93167c8a2089e11",
         "title": "电路_1",
+        "board": "",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795706482166",
+        "updateTime": 1795706482166
+      },
+      "7740028e73dc013d": {
+        "uuid": "7740028e73dc013d",
+        "title": "最终版",
         "board": "fe42c8fe05e934bc",
         "parent_uuid": "",
         "source": "",
-        "version": "1795699224718",
-        "updateTime": 1795699224718
+        "version": "1795706498408",
+        "updateTime": 1795706498408
       }
     },
     "panels": {
