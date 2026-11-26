@@ -38,6 +38,11 @@
         "uuid": "066b088b39bef747",
         "title": "Board3_1",
         "zIndex": 3
+      },
+      "fe42c8fe05e934bc": {
+        "uuid": "fe42c8fe05e934bc",
+        "title": "Board3_2",
+        "zIndex": 3
       }
     },
     "schematics": {
@@ -157,6 +162,15 @@
         "source": "",
         "version": "1795686184667",
         "updateTime": 1795686184667
+      },
+      "d93167c8a2089e11": {
+        "uuid": "d93167c8a2089e11",
+        "title": "电路_1",
+        "board": "fe42c8fe05e934bc",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795699224718",
+        "updateTime": 1795699224718
       }
     },
     "panels": {
