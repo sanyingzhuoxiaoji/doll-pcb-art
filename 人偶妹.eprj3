@@ -1,0 +1,198 @@
+{
+  "name": "人偶妹",
+  "owner_uuid": "6c9add7eaf0545f9a1b95969783ec1e4",
+  "creator_uuid": "6c9add7eaf0545f9a1b95969783ec1e4",
+  "created_at": "2026-11-25 23:36:34",
+  "updated_at": "2026-11-25 23:36:34",
+  "modifier_uuid": "6c9add7eaf0545f9a1b95969783ec1e4",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "262b03b1fb734b5a",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "profile": {
+    "boards": {
+      "e0df73784f74e963": {
+        "uuid": "e0df73784f74e963",
+        "title": "Board1",
+        "zIndex": 1
+      },
+      "361b54e37a56186e": {
+        "uuid": "361b54e37a56186e",
+        "title": "Board2",
+        "zIndex": 2
+      },
+      "3646860357f0b17f": {
+        "uuid": "3646860357f0b17f",
+        "title": "Board3",
+        "zIndex": 3
+      },
+      "066b088b39bef747": {
+        "uuid": "066b088b39bef747",
+        "title": "Board3_1",
+        "zIndex": 3
+      }
+    },
+    "schematics": {
+      "8d65c8e98c1694ba": {
+        "uuid": "8d65c8e98c1694ba",
+        "name": "Schematic1",
+        "board": "e0df73784f74e963",
+        "source": "",
+        "version": "1795622361958",
+        "updateTime": 1795622361958
+      },
+      "ad74756c17f4e588": {
+        "uuid": "ad74756c17f4e588",
+        "name": "Schematic2",
+        "board": "361b54e37a56186e",
+        "source": "",
+        "version": "1795656156668",
+        "updateTime": 1795656156668
+      },
+      "f494446a476610d7": {
+        "uuid": "f494446a476610d7",
+        "name": "Schematic3",
+        "board": "3646860357f0b17f",
+        "source": "",
+        "version": "1795668617023",
+        "updateTime": 1795668617023
+      },
+      "1f37256a126ca1b4": {
+        "uuid": "1f37256a126ca1b4",
+        "name": "Schematic3_1",
+        "board": "066b088b39bef747",
+        "source": "",
+        "version": "1795684170030",
+        "updateTime": 1795684170030
+      }
+    },
+    "sheets": {
+      "80064b49dccb4051": {
+        "uuid": "80064b49dccb4051",
+        "title": "P1",
+        "schematic_uuid": "8d65c8e98c1694ba",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795621012079",
+        "updateTime": 1795621012079
+      },
+      "5532381cfe6b0d19": {
+        "uuid": "5532381cfe6b0d19",
+        "title": "P1",
+        "schematic_uuid": "ad74756c17f4e588",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795656156668",
+        "updateTime": 1795656156668
+      },
+      "87b4a1b730163a84": {
+        "uuid": "87b4a1b730163a84",
+        "title": "P1",
+        "schematic_uuid": "f494446a476610d7",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795668617023",
+        "updateTime": 1795668617023
+      },
+      "5462efae59d2603c": {
+        "uuid": "5462efae59d2603c",
+        "title": "P1",
+        "schematic_uuid": "1f37256a126ca1b4",
+        "zIndex": 1,
+        "source": "",
+        "version": "1795668617023",
+        "updateTime": 1795678632749
+      }
+    },
+    "pcbs": {
+      "de32fc1fdca1fe13": {
+        "uuid": "de32fc1fdca1fe13",
+        "title": "PCB1",
+        "board": "e0df73784f74e963",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795667604340",
+        "updateTime": 1795667604340
+      },
+      "04f28a6e66588044": {
+        "uuid": "04f28a6e66588044",
+        "title": "PCB2",
+        "board": "361b54e37a56186e",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795656746165",
+        "updateTime": 1795656746165
+      },
+      "be902c57623c1b1b": {
+        "uuid": "be902c57623c1b1b",
+        "title": "PCB3",
+        "board": "3646860357f0b17f",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795678618100",
+        "updateTime": 1795678618100
+      },
+      "66eb02c644c8c4b7": {
+        "uuid": "66eb02c644c8c4b7",
+        "title": "PCB3_1",
+        "board": "",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795678638089",
+        "updateTime": 1795678638089
+      },
+      "ae977724eca61a61": {
+        "uuid": "ae977724eca61a61",
+        "title": "电路",
+        "board": "066b088b39bef747",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1795686184667",
+        "updateTime": 1795686184667
+      }
+    },
+    "panels": {
+      "daa9f079b2a3a90e": {
+        "uuid": "daa9f079b2a3a90e",
+        "title": "Panel1",
+        "zIndex": null
+      }
+    },
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "6c9add7eaf0545f9a1b95969783ec1e4"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  },
+  "config": {
+    "defaultSheet": "262b03b1fb734b5a",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true,
+          "nonElectronicAddIntoBom": false,
+          "nonElectronicUpdatePcb": false
+        }
+      }
+    }
+  }
+}
